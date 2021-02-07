@@ -29,6 +29,7 @@ for feature in ['length','molecular_weigth','charge','charge_density','isoelectr
 
 print("Export statistical summary")
 dataset_statistical = pd.DataFrame(matrix_data_statistical, columns = ["min_value", "max_value", "avg_value", "std_value", "q1_value", "q3_value"])
+dataset_statistical["feature"] = ['length','molecular_weigth','charge','charge_density','isoelectric','inestability','aromaticity','aliphatic_index','hydrophobic_ratio','hydrophobicity_profile','hydrophobic_profile','inhibition_IC50']
 dataset_statistical.to_csv(path_output+"statistical_summary.csv", index=False)
 
 #make correlation analisis

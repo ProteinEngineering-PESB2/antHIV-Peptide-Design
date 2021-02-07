@@ -1,5 +1,0 @@
-sequence,length,provide,formula,molecular_weigth,charge,charge_density,isoelectric,inestability,aromaticity,aliphatic_index,hydrophobic_ratio,hydrophobicity_profile,hydrophobic_profile,inhibition_IC50,inhibition_unit,name_peptide,source,host,assay,PMID/DOI,categorized_IC50
-PEVFLM,6,DB_HIV,C35 H55 N7 O8 S1,733.92,-0.003,-4.08763897972531e-06,3.150390625,37.3,0.1666666667,113.3333333333,0.6666666667,0.0,0.0,100000.0,nM,PEM6,alpha1-antitrypsin,,Pseudovirus assay,22406118,Class III
-AVGIGAMFLGFLGAAGSTMGAAS,23,DB_HIV,C91 H146 N24 O26 S2,2056.42,0.996,0.0004843369,6.0,-8.8913043478,0.0869565217,89.5652173913,0.6086956522,-0.0398844538,-0.0009418625,23.0,nM,-,gp41,TZM-bl,Luciferase assay,22520838,Class I
-GCKKYRRFRWKFKGKFWFWG,20,DB_HIV,C135 H188 N38 O21 S1,2711.25,8.926,0.0032922084,11.535644531300001,37.135,0.4,0.0,0.25,0.1247503925,-0.0485068088,2900.0,nM,pep 19-2.5,Synthetic,TZM-bl,Luciferase assay,22457281,Class III
-GKKYRRFRWKFKFGKWFWFG,20,DB_HIV,C141 H192 N38 O21,2755.28,8.994,0.003264278,11.9599609375,42.32,0.45,0.0,0.25,0.1382072214,-0.0189506667,8000.0,nM,pep 19-4,Synthetic,TZM-bl,Luciferase assay,22457281,Class III
