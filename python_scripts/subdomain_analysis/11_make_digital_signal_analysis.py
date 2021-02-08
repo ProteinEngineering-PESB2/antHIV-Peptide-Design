@@ -3,7 +3,7 @@ import sys
 from scipy.fft import fft
 import numpy as np
 import plotly.express as px
-
+import plotly.graph_objects as go
 
 def encoding_sequence(sequence, value_property):
 
@@ -24,11 +24,27 @@ def encoding_sequence(sequence, value_property):
 
 	return sequence_encoding
 
-dataset = pd.read_csv(sys.argv[1])
+dataset_input = pd.read_csv(sys.argv[1])
+
+domain_to_evaluate = "chr_domain"
+
+#process dataset, selecting the features concerning the domain to evaluate
+matrix_data = []
+
+for i in range(len(dataset_input)):
+	if dataset_input['domain'][i] == domain_to_evaluate:
+		row = [dataset_input[key][i] for key in dataset_input.keys()]
+		matrix_data.append(row)
+
+dataset = pd.DataFrame(matrix_data, columns=dataset_input.keys())
+
 path_output = sys.argv[2]
 path_encoding = sys.argv[3]
 
 list_clusters = ["alpha-structure_group", "betha-structure_group", "energetic_group", "hydropathy_group", "hydrophobicity_group", "index_group", "secondary_structure_properties_group", "volume_group"]
+
+color_data_fill = ['rgba(0,100,80,0.2)', 'rgba(0,176,246,0.2)', 'rgba(231,107,243,0.2)']
+color_data_figure = ['rgb(0,100,80)', 'rgb(0,176,246)', 'rgb(231,107,243)']
 
 for cluster in list_clusters:
 
@@ -50,7 +66,7 @@ for cluster in list_clusters:
 
 	#make zero padding	
 	for i in range(len(matrix_sequence_encoding)):
-		for j in range(len(matrix_sequence_encoding[i]),128):
+		for j in range(len(matrix_sequence_encoding[i]),1024):
 			matrix_sequence_encoding[i].append(0)
 
 
@@ -71,6 +87,7 @@ for cluster in list_clusters:
 	dataset_export["response"] = dataset['categorized_IC50']
 	dataset_export["id_sequence"] = dataset['id_sequence']
 
+	dataset_export.to_csv(path_output+cluster+"_encoding_data.csv", index=False)
 	print("Create line chart")
 	matrix_data = []
 
@@ -83,9 +100,56 @@ for cluster in list_clusters:
 				index+=1
 				matrix_data.append(row)
 	
-	dataset_figure = pd.DataFrame(matrix_data, columns=["id_sequence", "categorized_IC50", "xf_values", "yf_values"])	
+	dataset_figure = pd.DataFrame(matrix_data, columns=["id_sequence", "categorized_IC50", "domain", "frequency"])	
 
-	fig = px.line(dataset_figure, x="xf_values", y="yf_values", color="categorized_IC50", line_group="id_sequence", hover_name="id_sequence")
+	fig = px.line(dataset_figure, x="domain", y="frequency", color="categorized_IC50", line_group="id_sequence", hover_name="id_sequence")
 	fig.write_image(path_output+cluster+".svg")
 
-	break
+	#estimated average curves per class
+	statistical_curves = {}
+
+	print("Process statistical curves for property: ", cluster)
+	fig = go.Figure()
+
+	print(list(set(dataset_export['response'])))
+
+	index=0
+	for class_data in ["Class I", "Class II", "Class III"]:
+
+		print("Process data class: ", class_data)
+		matrix_values = []
+
+		for i in range(len(dataset_export)):
+			if dataset_export['response'][i] == class_data:
+				row = [dataset_export[key][i] for key in dataset_export.keys()]
+				matrix_values.append(row)
+
+		dataset_export_figure = pd.DataFrame(matrix_values, columns=dataset_export.keys())
+
+		curve_average = []
+		curve_max = []
+		curve_min = []
+		curve_q1 = []
+		curve_q3 = []
+
+		for key in dataset_export_figure.keys():
+			if key not in ["response", "id_sequence"]:
+
+				curve_average.append(np.mean(dataset_export_figure[key]))
+				curve_min.append(np.min(dataset_export_figure[key]))
+				curve_max.append(np.max(dataset_export_figure[key]))
+				curve_q1.append(np.quantile(dataset_export_figure[key], .25))
+				curve_q1.append(np.quantile(dataset_export_figure[key], .75))
+		
+		fig.add_trace(go.Scatter(x=xf, y=curve_average, name="Average "+ class_data,
+                    line_shape='spline', line_color=color_data_figure[index]))
+
+		index+=1
+		
+	fig.update_traces(mode='lines')
+
+	fig.update_layout(title='Average curve: '+cluster,
+                   xaxis_title='Domain',
+                   yaxis_title='Frequency')
+
+	fig.write_image(path_output+cluster+"summary_curves.svg")
