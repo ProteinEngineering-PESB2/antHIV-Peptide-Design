@@ -13,7 +13,6 @@ sequences_matrix = [sequence for sequence in dataset['sequence']]
 sequence_full = "AVGIGALFLGFLGAAGSTMGAASMTLTVQARQLLSGIVQQQNNLLRAIEAQQHLLQLTVWGIKQLQARILAVERYLKDQQLLGIWGCSGKLICTTAVPWNASWSNKSLEQIWNHTTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWFNITNWLWYIKLFIMIVGGLVGLRIVFAVLSIVNRVRQGYSPLSFQTHLPTPRGPDRPEGIEEEGGERDRDRSIRLVNGSLALIWDDLRSLCLFSYHRLRDLLLIVTRIVELLGRRGWEALKYWWNLLQYWSQELKNSAVSLLNATAIAVAEGTDRVIEVVQGACRAIRHIPRRIRQGLERILL"
 
 #define domains
-#note: nhr has fppr sub domain and pfd domain
 domains = {'fp_domain': sequence_full[0:16], 'nhr_domain': sequence_full[16:70], 'chr_domain' : sequence_full[116:162], 'tm_domain' : sequence_full[172:193], 'loop2' : sequence_full[162:172],'loop1' :sequence_full[70:116], "cp_domain": sequence_full[194:-1]}
 
 keys_domain = [domain for domain in domains]

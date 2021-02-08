@@ -65,4 +65,4 @@ for i in range(len(dataset)):
 
 dataset['categorized_IC50'] = categorized_IC50
 
-dataset.to_csv(path_output+"14_update_dataset_add_IC50_categories.csv", index=False)
+dataset.to_csv(path_output+"9_update_dataset_add_IC50_categories.csv", index=False)
