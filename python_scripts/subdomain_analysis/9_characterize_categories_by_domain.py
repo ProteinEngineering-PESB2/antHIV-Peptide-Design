@@ -4,7 +4,7 @@ import numpy as np
 
 dataset = pd.read_csv(sys.argv[1])
 path_output = sys.argv[2]
-domain_analysis = "chr_domain"
+domain_analysis = sys.argv[3]
 
 for class_data in ["Class I", "Class II", "Class III"]:
 	print("Process statistic by class: ", class_data)

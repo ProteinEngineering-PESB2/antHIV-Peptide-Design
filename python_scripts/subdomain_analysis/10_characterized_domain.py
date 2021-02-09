@@ -7,7 +7,7 @@ import plotly.express as px
 
 dataset_input = pd.read_csv(sys.argv[1])
 path_output = sys.argv[2]
-domain_to_evaluate = "chr_domain"
+domain_to_evaluate = sys.argv[3]
 
 #process dataset, selecting the features concerning the domain to evaluate
 matrix_data = []

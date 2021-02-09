@@ -26,7 +26,7 @@ def encoding_sequence(sequence, value_property):
 
 dataset_input = pd.read_csv(sys.argv[1])
 
-domain_to_evaluate = "chr_domain"
+domain_to_evaluate = sys.argv[4]
 
 #process dataset, selecting the features concerning the domain to evaluate
 matrix_data = []
