@@ -13,7 +13,7 @@ sequences_matrix = [sequence for sequence in dataset['sequence']]
 sequence_full = "AVGIGALFLGFLGAAGSTMGAASMTLTVQARQLLSGIVQQQNNLLRAIEAQQHLLQLTVWGIKQLQARILAVERYLKDQQLLGIWGCSGKLICTTAVPWNASWSNKSLEQIWNHTTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWFNITNWLWYIKLFIMIVGGLVGLRIVFAVLSIVNRVRQGYSPLSFQTHLPTPRGPDRPEGIEEEGGERDRDRSIRLVNGSLALIWDDLRSLCLFSYHRLRDLLLIVTRIVELLGRRGWEALKYWWNLLQYWSQELKNSAVSLLNATAIAVAEGTDRVIEVVQGACRAIRHIPRRIRQGLERILL"
 
 #define domains
-domains = {'fp_domain': sequence_full[0:16], 'nhr_domain': sequence_full[16:70], 'tm_domain' : sequence_full[172:193], "cp_domain": sequence_full[194:-1], "loop1_PBD_CHR" : sequence_full[70:155], "CHR_LPB_loop2": sequence_full[124:172]}
+domains = {'fp_domain': sequence_full[0:16], 'nhr_domain': sequence_full[16:70], 'tm_domain' : sequence_full[172:193], "cp_domain": sequence_full[194:-1], "loop1_PBD_CHR_LPB" : sequence_full[70:162], "PBD_CHR_LPB_loop2": sequence_full[116:172]}
 
 keys_domain = [domain for domain in domains]
 
