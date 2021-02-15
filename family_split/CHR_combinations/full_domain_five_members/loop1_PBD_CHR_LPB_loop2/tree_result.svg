@@ -1,0 +1,379 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="820" height="3576" name="tree_result.svg" y="0" viewBox="0 0 820 3576">
+<polyline points="820,3576 0,3576 0,0 820,0 820,3576" fill="white" />
+<text x="427" y="37" fill="#000000" font-size="15" font-family="default" > seq 126:SC35EK:0.39:Class I</text>
+<polyline points="414,44 414,32 425,32" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="61" fill="#000000" font-size="15" font-family="default" > seq 132:SC29EK:0.7:Class I</text>
+<polyline points="414,45 414,56 425,56" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,62 403,44 414,44" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="85" fill="#000000" font-size="15" font-family="default" > seq 61:MT-SC29:0.43:Class I</text>
+<polyline points="403,63 403,80 425,80" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,83 392,62 403,62" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="109" fill="#000000" font-size="15" font-family="default" > seq 131:MT-SC21EK:2.7:Class I</text>
+<polyline points="392,84 392,104 425,104" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,111 381,83 392,83" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="133" fill="#000000" font-size="15" font-family="default" > seq 80:SC22:54.58:Class II</text>
+<polyline points="414,140 414,128 425,128" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="157" fill="#000000" font-size="15" font-family="default" > seq 88:SC22EK:51.3:Class II</text>
+<polyline points="414,141 414,152 425,152" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,112 381,140 414,140" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="370,143 370,111 381,111" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="181" fill="#000000" font-size="15" font-family="default" > seq 110:MT-SC22:1.32:Class I</text>
+<polyline points="370,144 370,176 425,176" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="359,171 359,143 370,143" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="205" fill="#000000" font-size="15" font-family="default" > seq 26:MT-SC20EK:3.0:Class I</text>
+<polyline points="359,172 359,200 425,200" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="348,197 348,171 359,171" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="229" fill="#000000" font-size="15" font-family="default" > seq 113:MT-SC19EK:4.8:Class I</text>
+<polyline points="348,198 348,224 425,224" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="337,242 337,197 348,197" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="253" fill="#000000" font-size="15" font-family="default" > seq 145:WQ-IDI:3.7:Class I</text>
+<polyline points="414,260 414,248 425,248" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="277" fill="#000000" font-size="15" font-family="default" > seq 153:WQ-LDI:3.6:Class I</text>
+<polyline points="414,261 414,272 425,272" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,287 392,260 414,260" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="301" fill="#000000" font-size="15" font-family="default" > seq 124:WQ-LDL:3.7:Class I</text>
+<polyline points="403,314 403,296 425,296" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="325" fill="#000000" font-size="15" font-family="default" > seq 53:MT-WQ-IDL:0.6:Class I</text>
+<polyline points="414,332 414,320 425,320" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="349" fill="#000000" font-size="15" font-family="default" > seq 177:WQ-IDL:1.6:Class I</text>
+<polyline points="414,333 414,344 425,344" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,315 403,332 414,332" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,288 392,314 403,314" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="337,243 337,287 392,287" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="326,350 326,242 337,242" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="373" fill="#000000" font-size="15" font-family="default" > seq 1:2P23:0.69:Class I</text>
+<polyline points="414,380 414,368 425,368" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="397" fill="#000000" font-size="15" font-family="default" > seq 75:2P23L:0.59:Class I</text>
+<polyline points="414,381 414,392 425,392" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,398 403,380 414,380" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="421" fill="#000000" font-size="15" font-family="default" > seq 139:2P23Q:1.39:Class I</text>
+<polyline points="403,399 403,416 425,416" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,419 392,398 403,398" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="445" fill="#000000" font-size="15" font-family="default" > seq 90:4HR-LBD-VIRIP:91.0:Class II</text>
+<polyline points="392,420 392,440 425,440" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,459 381,419 392,419" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="469" fill="#000000" font-size="15" font-family="default" > seq 50:HP23L:0.39:Class I</text>
+<polyline points="414,476 414,464 425,464" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="493" fill="#000000" font-size="15" font-family="default" > seq 143:HP23:0.19:Class I</text>
+<polyline points="414,477 414,488 425,488" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,500 403,476 414,476" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="517" fill="#000000" font-size="15" font-family="default" > seq 101:HP23-E6-IDL:0.338:Class I</text>
+<polyline points="414,524 414,512 425,512" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="541" fill="#000000" font-size="15" font-family="default" > seq 140:YIK:0.275:Class I</text>
+<polyline points="414,525 414,536 425,536" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,501 403,524 414,524" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,460 381,500 403,500" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="326,351 326,459 381,459" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="315,461 315,350 326,350" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="565" fill="#000000" font-size="15" font-family="default" > seq 146:MT-WQ:8.8:Class I</text>
+<polyline points="414,572 414,560 425,560" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="589" fill="#000000" font-size="15" font-family="default" > seq 148:WQ:123.4:Class III</text>
+<polyline points="414,573 414,584 425,584" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="315,462 315,572 414,572" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="304,543 304,461 315,461" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="613" fill="#000000" font-size="15" font-family="default" > seq 68:SC34EK:1.6:Class I</text>
+<polyline points="403,626 403,608 425,608" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="637" fill="#000000" font-size="15" font-family="default" > seq 158:SC34:0.39:Class I</text>
+<polyline points="414,644 414,632 425,632" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="661" fill="#000000" font-size="15" font-family="default" > seq 166:SC34:1.4:Class I</text>
+<polyline points="414,645 414,656 425,656" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,627 403,644 414,644" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="304,544 304,626 403,626" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="293,720 293,543 304,543" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="685" fill="#000000" font-size="15" font-family="default" > seq 52:C34 ROD:5.51:Class I</text>
+<polyline points="414,692 414,680 425,680" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="709" fill="#000000" font-size="15" font-family="default" > seq 165:MT-SC34 ROD:0.84:Class I</text>
+<polyline points="414,693 414,704 425,704" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,710 403,692 414,692" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="733" fill="#000000" font-size="15" font-family="default" > seq 151:P21 ROD:571.8:Class III</text>
+<polyline points="403,711 403,728 425,728" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,737 392,710 403,710" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="757" fill="#000000" font-size="15" font-family="default" > seq 76:MT-P3:1.38:Class I</text>
+<polyline points="414,764 414,752 425,752" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="781" fill="#000000" font-size="15" font-family="default" > seq 175:P3:6.34:Class I</text>
+<polyline points="414,765 414,776 425,776" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,738 392,764 414,764" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,768 381,737 392,737" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="805" fill="#000000" font-size="15" font-family="default" > seq 15:V2o:0.42:Class I</text>
+<polyline points="381,769 381,800 425,800" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="370,806 370,768 381,768" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="829" fill="#000000" font-size="15" font-family="default" > seq 119:C46:4.9:Class I</text>
+<polyline points="392,845 392,824 425,824" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="853" fill="#000000" font-size="15" font-family="default" > seq 128:C46-EHO:1.9:Class I</text>
+<polyline points="403,866 403,848 425,848" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="877" fill="#000000" font-size="15" font-family="default" > seq 109:C34 EHO:1.88:Class I</text>
+<polyline points="414,884 414,872 425,872" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="901" fill="#000000" font-size="15" font-family="default" > seq 111:MT-SC34 EHO:1.17:Class I</text>
+<polyline points="414,885 414,896 425,896" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,867 403,884 414,884" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,846 392,866 403,866" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="370,807 370,845 392,845" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="326,898 326,806 370,806" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="925" fill="#000000" font-size="15" font-family="default" > seq 155:MT-SFT:0.8:Class I</text>
+<polyline points="414,932 414,920 425,920" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="949" fill="#000000" font-size="15" font-family="default" > seq 171:Sifuvirtide/SFT:2.87:Class I</text>
+<polyline points="414,933 414,944 425,944" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,950 403,932 414,932" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="973" fill="#000000" font-size="15" font-family="default" > seq 178:CP32M:1.8:Class I</text>
+<polyline points="403,951 403,968 425,968" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="337,991 337,950 403,950" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="997" fill="#000000" font-size="15" font-family="default" > seq 105:15K:50.0:Class II</text>
+<polyline points="414,1004 414,992 425,992" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1021" fill="#000000" font-size="15" font-family="default" > seq 133:15D:50.0:Class II</text>
+<polyline points="414,1005 414,1016 425,1016" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="348,1033 348,1004 414,1004" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1045" fill="#000000" font-size="15" font-family="default" > seq 51:T5:16.6924641112:Class II</text>
+<polyline points="359,1063 359,1040 425,1040" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1069" fill="#000000" font-size="15" font-family="default" > seq 57:A13C611:180.0:Class III</text>
+<polyline points="370,1087 370,1064 425,1064" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1093" fill="#000000" font-size="15" font-family="default" > seq 16:Izm:26.0:Class II</text>
+<polyline points="381,1110 381,1088 425,1088" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1117" fill="#000000" font-size="15" font-family="default" > seq 93:PBD-3HR-LBD:580.0:Class III</text>
+<polyline points="392,1133 392,1112 425,1112" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1141" fill="#000000" font-size="15" font-family="default" > seq 21:AP1:86.25:Class II</text>
+<polyline points="403,1154 403,1136 425,1136" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1165" fill="#000000" font-size="15" font-family="default" > seq 30:AP2:23.05:Class II</text>
+<polyline points="414,1172 414,1160 425,1160" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1189" fill="#000000" font-size="15" font-family="default" > seq 73:AP3:3.06:Class I</text>
+<polyline points="414,1173 414,1184 425,1184" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,1155 403,1172 414,1172" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,1134 392,1154 403,1154" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,1111 381,1133 392,1133" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="370,1088 370,1110 381,1110" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="359,1064 359,1087 370,1087" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="348,1034 348,1063 359,1063" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="337,992 337,1033 348,1033" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="326,899 326,991 337,991" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="293,721 293,898 326,898" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="282,975 282,720 293,720" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1213" fill="#000000" font-size="15" font-family="default" > seq 89:2638:18.3213471524:Class II</text>
+<polyline points="370,1231 370,1208 425,1208" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1237" fill="#000000" font-size="15" font-family="default" > seq 97:290676:2.8960388871:Class I</text>
+<polyline points="381,1254 381,1232 425,1232" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1261" fill="#000000" font-size="15" font-family="default" > seq 74:267221:7.8529215112:Class I</text>
+<polyline points="392,1277 392,1256 425,1256" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1285" fill="#000000" font-size="15" font-family="default" > seq 100:2544:5.8493346382:Class I</text>
+<polyline points="403,1298 403,1280 425,1280" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1309" fill="#000000" font-size="15" font-family="default" > seq 11:267209:4.7117529067:Class I</text>
+<polyline points="414,1316 414,1304 425,1304" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1333" fill="#000000" font-size="15" font-family="default" > seq 104:291022:11.031166422:Class II</text>
+<polyline points="414,1317 414,1328 425,1328" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,1299 403,1316 414,1316" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,1278 392,1298 403,1298" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,1255 381,1277 392,1277" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="370,1232 370,1254 381,1254" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="282,976 282,1231 370,1231" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="271,1163 271,975 282,975" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1357" fill="#000000" font-size="15" font-family="default" > seq 162:T628:216.4872348302:Class III</text>
+<polyline points="271,1164 271,1352 425,1352" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="260,1314 260,1163 271,1163" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1381" fill="#000000" font-size="15" font-family="default" > seq 46:T-20S138V:0.4:Class I</text>
+<polyline points="414,1388 414,1376 425,1376" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1405" fill="#000000" font-size="15" font-family="default" > seq 55:T-20S138T:25.0:Class II</text>
+<polyline points="414,1389 414,1400 425,1400" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="337,1466 337,1388 414,1388" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1429" fill="#000000" font-size="15" font-family="default" > seq 39:T-20S138Q:362.0:Class III</text>
+<polyline points="414,1436 414,1424 425,1424" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1453" fill="#000000" font-size="15" font-family="default" > seq 81:T-20S138M:0.7:Class I</text>
+<polyline points="414,1437 414,1448 425,1448" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="348,1544 348,1436 414,1436" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1477" fill="#000000" font-size="15" font-family="default" > seq 35:C34S138T:2.6:Class I</text>
+<polyline points="414,1484 414,1472 425,1472" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1501" fill="#000000" font-size="15" font-family="default" > seq 117:T-20S138T:0.9:Class I</text>
+<polyline points="414,1485 414,1496 425,1496" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,1508 403,1484 414,1484" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1525" fill="#000000" font-size="15" font-family="default" > seq 157:C34S138P:46.0:Class II</text>
+<polyline points="414,1532 414,1520 425,1520" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1549" fill="#000000" font-size="15" font-family="default" > seq 170:T-20S138P:446.0:Class III</text>
+<polyline points="414,1533 414,1544 425,1544" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,1509 403,1532 414,1532" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,1544 392,1508 403,1508" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1573" fill="#000000" font-size="15" font-family="default" > seq 134:C34S138A:2.0:Class I</text>
+<polyline points="414,1580 414,1568 425,1568" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1597" fill="#000000" font-size="15" font-family="default" > seq 149:T-20S138A:0.6:Class I</text>
+<polyline points="414,1581 414,1592 425,1592" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,1545 392,1580 414,1580" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,1586 381,1544 392,1544" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1621" fill="#000000" font-size="15" font-family="default" > seq 43:T-20S138L:0.7:Class I</text>
+<polyline points="414,1628 414,1616 425,1616" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1645" fill="#000000" font-size="15" font-family="default" > seq 48:C34S138L:1.5:Class I</text>
+<polyline points="414,1629 414,1640 425,1640" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,1587 381,1628 414,1628" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="359,1652 359,1586 381,1586" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1669" fill="#000000" font-size="15" font-family="default" > seq 9:T-20S138F:9.4:Class I</text>
+<polyline points="414,1676 414,1664 425,1664" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1693" fill="#000000" font-size="15" font-family="default" > seq 32:T-20S138N:19.0:Class II</text>
+<polyline points="414,1677 414,1688 425,1688" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="370,1718 370,1676 414,1676" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1717" fill="#000000" font-size="15" font-family="default" > seq 8:T-20S138E:283.0:Class III</text>
+<polyline points="414,1724 414,1712 425,1712" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1741" fill="#000000" font-size="15" font-family="default" > seq 31:T-20S138G:1.3:Class I</text>
+<polyline points="414,1725 414,1736 425,1736" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,1761 381,1724 414,1724" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1765" fill="#000000" font-size="15" font-family="default" > seq 2:T-20S138K:708.0:Class III</text>
+<polyline points="414,1772 414,1760 425,1760" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1789" fill="#000000" font-size="15" font-family="default" > seq 121:T-20S138W:29.0:Class II</text>
+<polyline points="414,1773 414,1784 425,1784" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,1799 392,1772 414,1772" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1813" fill="#000000" font-size="15" font-family="default" > seq 103:T-20S138D:210.0:Class III</text>
+<polyline points="403,1826 403,1808 425,1808" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1837" fill="#000000" font-size="15" font-family="default" > seq 63:T-20S138H:210.0:Class III</text>
+<polyline points="414,1844 414,1832 425,1832" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1861" fill="#000000" font-size="15" font-family="default" > seq 161:T-20S138I:0.5:Class I</text>
+<polyline points="414,1845 414,1856 425,1856" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,1827 403,1844 414,1844" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,1800 392,1826 403,1826" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,1762 381,1799 392,1799" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="370,1719 370,1761 381,1761" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="359,1653 359,1718 370,1718" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="348,1545 348,1652 359,1652" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="337,1467 337,1544 348,1544" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="260,1315 260,1466 337,1466" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="249,1606 249,1314 260,1314" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1885" fill="#000000" font-size="15" font-family="default" > seq 3:T645:19.5057920728:Class II</text>
+<polyline points="403,1898 403,1880 425,1880" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1909" fill="#000000" font-size="15" font-family="default" > seq 56:T646:18.556567347999998:Class II</text>
+<polyline points="414,1916 414,1904 425,1904" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1933" fill="#000000" font-size="15" font-family="default" > seq 83:T705:3.1575481188:Class I</text>
+<polyline points="414,1917 414,1928 425,1928" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,1899 403,1916 414,1916" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="249,1607 249,1898 403,1898" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="238,1785 238,1606 249,1606" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1957" fill="#000000" font-size="15" font-family="default" > seq 5:T704:116.9520909199:Class III</text>
+<polyline points="414,1964 414,1952 425,1952" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="1981" fill="#000000" font-size="15" font-family="default" > seq 150:T653:14.056914886500001:Class II</text>
+<polyline points="414,1965 414,1976 425,1976" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="238,1786 238,1964 414,1964" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="227,1912 227,1785 238,1785" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2005" fill="#000000" font-size="15" font-family="default" > seq 29:T215:5.1698521198:Class I</text>
+<polyline points="414,2012 414,2000 425,2000" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2029" fill="#000000" font-size="15" font-family="default" > seq 62:T212:0.6720595714:Class I</text>
+<polyline points="414,2013 414,2024 425,2024" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,2040 381,2012 414,2012" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2053" fill="#000000" font-size="15" font-family="default" > seq 14:P5:60.0:Class II</text>
+<polyline points="392,2069 392,2048 425,2048" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2077" fill="#000000" font-size="15" font-family="default" > seq 13:T701:0.6764542074:Class I</text>
+<polyline points="403,2090 403,2072 425,2072" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2101" fill="#000000" font-size="15" font-family="default" > seq 6:C36M1A:18.5:Class II</text>
+<polyline points="414,2108 414,2096 425,2096" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2125" fill="#000000" font-size="15" font-family="default" > seq 108:C36M2A:18.2:Class II</text>
+<polyline points="414,2109 414,2120 425,2120" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,2091 403,2108 414,2108" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,2070 392,2090 403,2090" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,2041 381,2069 392,2069" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="227,1913 227,2040 381,2040" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="216,2039 216,1912 227,1912" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2149" fill="#000000" font-size="15" font-family="default" > seq 114:T657:28.2066933602:Class II</text>
+<polyline points="381,2166 381,2144 425,2144" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2173" fill="#000000" font-size="15" font-family="default" > seq 95:T658:42.2294496242:Class II</text>
+<polyline points="392,2189 392,2168 425,2168" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2197" fill="#000000" font-size="15" font-family="default" > seq 12:T98:2.2477617912:Class I</text>
+<polyline points="403,2210 403,2192 425,2192" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="427" y="2221" fill="#000000" font-size="15" font-family="default" > seq 10:T99:12.590239416900001:Class II</text>
+<polyline points="414,2228 414,2216 425,2216" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="403,2211 403,2228 414,2228" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="392,2190 392,2210 403,2210" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="381,2167 381,2189 392,2189" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="216,2040 216,2166 381,2166" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="205,2190 205,2039 216,2039" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="205,2191 205,2341 348,2341" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="194,2365 194,2190 205,2190" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="183,2476 183,2365 194,2365" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="172,2560 172,2476 183,2476" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="387" y="998" fill="#212121" font-size="11" font-family="MS Sans Serif" >100</text>
+<text x="394" y="1189" fill="#212121" font-size="11" font-family="MS Sans Serif" >98</text>
+<text x="394" y="926" fill="#212121" font-size="11" font-family="MS Sans Serif" >95</text>
+<text x="394" y="686" fill="#212121" font-size="11" font-family="MS Sans Serif" >94</text>
+<text x="394" y="781" fill="#212121" font-size="11" font-family="MS Sans Serif" >92</text>
+<text x="383" y="704" fill="#212121" font-size="11" font-family="MS Sans Serif" >87</text>
+<text x="372" y="731" fill="#212121" font-size="11" font-family="MS Sans Serif" >92</text>
+<text x="383" y="1171" fill="#212121" font-size="11" font-family="MS Sans Serif" >85</text>
+<text x="383" y="944" fill="#212121" font-size="11" font-family="MS Sans Serif" >74</text>
+<text x="372" y="1150" fill="#212121" font-size="11" font-family="MS Sans Serif" >74</text>
+<text x="394" y="661" fill="#212121" font-size="11" font-family="MS Sans Serif" >72</text>
+<text x="394" y="374" fill="#212121" font-size="11" font-family="MS Sans Serif" >64</text>
+<text x="383" y="392" fill="#212121" font-size="11" font-family="MS Sans Serif" >76</text>
+<text x="394" y="1478" fill="#212121" font-size="11" font-family="MS Sans Serif" >55</text>
+<text x="394" y="1549" fill="#212121" font-size="11" font-family="MS Sans Serif" >54</text>
+<text x="361" y="1127" fill="#212121" font-size="11" font-family="MS Sans Serif" >54</text>
+<text x="394" y="1333" fill="#212121" font-size="11" font-family="MS Sans Serif" >53</text>
+<text x="394" y="1597" fill="#212121" font-size="11" font-family="MS Sans Serif" >47</text>
+<text x="394" y="901" fill="#212121" font-size="11" font-family="MS Sans Serif" >46</text>
+<text x="383" y="883" fill="#212121" font-size="11" font-family="MS Sans Serif" >60</text>
+<text x="372" y="862" fill="#212121" font-size="11" font-family="MS Sans Serif" >87</text>
+<text x="361" y="762" fill="#212121" font-size="11" font-family="MS Sans Serif" >45</text>
+<text x="350" y="800" fill="#212121" font-size="11" font-family="MS Sans Serif" >63</text>
+<text x="350" y="1104" fill="#212121" font-size="11" font-family="MS Sans Serif" >44</text>
+<text x="394" y="470" fill="#212121" font-size="11" font-family="MS Sans Serif" >42</text>
+<text x="394" y="2125" fill="#212121" font-size="11" font-family="MS Sans Serif" >39</text>
+<text x="394" y="2245" fill="#212121" font-size="11" font-family="MS Sans Serif" >38</text>
+<text x="372" y="413" fill="#212121" font-size="11" font-family="MS Sans Serif" >37</text>
+<text x="394" y="349" fill="#212121" font-size="11" font-family="MS Sans Serif" >35</text>
+<text x="339" y="1080" fill="#212121" font-size="11" font-family="MS Sans Serif" >33</text>
+<text x="394" y="541" fill="#212121" font-size="11" font-family="MS Sans Serif" >33</text>
+<text x="383" y="517" fill="#212121" font-size="11" font-family="MS Sans Serif" >48</text>
+<text x="394" y="38" fill="#212121" font-size="11" font-family="MS Sans Serif" >32</text>
+<text x="383" y="56" fill="#212121" font-size="11" font-family="MS Sans Serif" >45</text>
+<text x="383" y="1315" fill="#212121" font-size="11" font-family="MS Sans Serif" >28</text>
+<text x="372" y="1294" fill="#212121" font-size="11" font-family="MS Sans Serif" >61</text>
+<text x="361" y="1271" fill="#212121" font-size="11" font-family="MS Sans Serif" >84</text>
+<text x="350" y="1248" fill="#212121" font-size="11" font-family="MS Sans Serif" >44</text>
+<text x="328" y="1050" fill="#212121" font-size="11" font-family="MS Sans Serif" >27</text>
+<text x="394" y="1645" fill="#212121" font-size="11" font-family="MS Sans Serif" >27</text>
+<text x="394" y="254" fill="#212121" font-size="11" font-family="MS Sans Serif" >27</text>
+<text x="383" y="331" fill="#212121" font-size="11" font-family="MS Sans Serif" >23</text>
+<text x="383" y="643" fill="#212121" font-size="11" font-family="MS Sans Serif" >22</text>
+<text x="394" y="589" fill="#212121" font-size="11" font-family="MS Sans Serif" >18</text>
+<text x="383" y="1502" fill="#212121" font-size="11" font-family="MS Sans Serif" >16</text>
+<text x="372" y="1538" fill="#212121" font-size="11" font-family="MS Sans Serif" >17</text>
+<text x="372" y="77" fill="#212121" font-size="11" font-family="MS Sans Serif" >14</text>
+<text x="394" y="157" fill="#212121" font-size="11" font-family="MS Sans Serif" >13</text>
+<text x="383" y="2107" fill="#212121" font-size="11" font-family="MS Sans Serif" >13</text>
+<text x="383" y="2227" fill="#212121" font-size="11" font-family="MS Sans Serif" >12</text>
+<text x="317" y="1008" fill="#212121" font-size="11" font-family="MS Sans Serif" >11</text>
+<text x="361" y="105" fill="#212121" font-size="11" font-family="MS Sans Serif" >10</text>
+<text x="350" y="137" fill="#212121" font-size="11" font-family="MS Sans Serif" >12</text>
+<text x="339" y="165" fill="#212121" font-size="11" font-family="MS Sans Serif" >11</text>
+<text x="328" y="191" fill="#212121" font-size="11" font-family="MS Sans Serif" >18</text>
+<text x="379" y="304" fill="#212121" font-size="11" font-family="MS Sans Serif" >8</text>
+<text x="368" y="1580" fill="#212121" font-size="11" font-family="MS Sans Serif" >8</text>
+<text x="401" y="2006" fill="#212121" font-size="11" font-family="MS Sans Serif" >7</text>
+<text x="368" y="476" fill="#212121" font-size="11" font-family="MS Sans Serif" >6</text>
+<text x="313" y="915" fill="#212121" font-size="11" font-family="MS Sans Serif" >6</text>
+<text x="324" y="236" fill="#212121" font-size="11" font-family="MS Sans Serif" >6</text>
+<text x="401" y="1670" fill="#212121" font-size="11" font-family="MS Sans Serif" >6</text>
+<text x="379" y="2086" fill="#212121" font-size="11" font-family="MS Sans Serif" >5</text>
+<text x="401" y="1933" fill="#212121" font-size="11" font-family="MS Sans Serif" >5</text>
+<text x="379" y="2206" fill="#212121" font-size="11" font-family="MS Sans Serif" >4</text>
+<text x="401" y="1861" fill="#212121" font-size="11" font-family="MS Sans Serif" >4</text>
+<text x="401" y="1382" fill="#212121" font-size="11" font-family="MS Sans Serif" >4</text>
+<text x="401" y="1766" fill="#212121" font-size="11" font-family="MS Sans Serif" >4</text>
+<text x="313" y="344" fill="#212121" font-size="11" font-family="MS Sans Serif" >4</text>
+<text x="302" y="455" fill="#212121" font-size="11" font-family="MS Sans Serif" >9</text>
+<text x="291" y="537" fill="#212121" font-size="11" font-family="MS Sans Serif" >7</text>
+<text x="280" y="714" fill="#212121" font-size="11" font-family="MS Sans Serif" >5</text>
+<text x="269" y="969" fill="#212121" font-size="11" font-family="MS Sans Serif" >4</text>
+<text x="401" y="1981" fill="#212121" font-size="11" font-family="MS Sans Serif" >4</text>
+<text x="401" y="1718" fill="#212121" font-size="11" font-family="MS Sans Serif" >3</text>
+<text x="401" y="1430" fill="#212121" font-size="11" font-family="MS Sans Serif" >3</text>
+<text x="390" y="1915" fill="#212121" font-size="11" font-family="MS Sans Serif" >3</text>
+<text x="390" y="1843" fill="#212121" font-size="11" font-family="MS Sans Serif" >2</text>
+<text x="335" y="2358" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="258" y="1157" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="379" y="1816" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="368" y="2057" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="368" y="2183" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="368" y="1778" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="357" y="1735" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="346" y="1669" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="335" y="1561" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="324" y="1483" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="247" y="1308" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="236" y="1600" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="225" y="1779" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="214" y="1906" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="203" y="2033" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="192" y="2184" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="181" y="2359" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+<text x="170" y="2470" fill="#212121" font-size="11" font-family="MS Sans Serif" >1</text>
+</svg>
