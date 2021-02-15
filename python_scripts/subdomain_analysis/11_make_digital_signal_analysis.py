@@ -116,34 +116,36 @@ for cluster in list_clusters:
 	index=0
 	for class_data in ["Class I", "Class II", "Class III"]:
 
-		print("Process data class: ", class_data)
-		matrix_values = []
+		try:
+			print("Process data class: ", class_data)
+			matrix_values = []
 
-		for i in range(len(dataset_export)):
-			if dataset_export['response'][i] == class_data:
-				row = [dataset_export[key][i] for key in dataset_export.keys()]
-				matrix_values.append(row)
+			for i in range(len(dataset_export)):
+				if dataset_export['response'][i] == class_data:
+					row = [dataset_export[key][i] for key in dataset_export.keys()]
+					matrix_values.append(row)
 
-		dataset_export_figure = pd.DataFrame(matrix_values, columns=dataset_export.keys())
+			dataset_export_figure = pd.DataFrame(matrix_values, columns=dataset_export.keys())
 
-		curve_average = []
-		curve_max = []
-		curve_min = []
-		curve_q1 = []
-		curve_q3 = []
+			curve_average = []
+			curve_max = []
+			curve_min = []
+			curve_q1 = []
+			curve_q3 = []
 
-		for key in dataset_export_figure.keys():
-			if key not in ["response", "id_sequence"]:
+			for key in dataset_export_figure.keys():
+				if key not in ["response", "id_sequence"]:
 
-				curve_average.append(np.mean(dataset_export_figure[key]))
-				curve_min.append(np.min(dataset_export_figure[key]))
-				curve_max.append(np.max(dataset_export_figure[key]))
-				curve_q1.append(np.quantile(dataset_export_figure[key], .25))
-				curve_q1.append(np.quantile(dataset_export_figure[key], .75))
-		
-		fig.add_trace(go.Scatter(x=xf, y=curve_average, name="Average "+ class_data,
-                    line_shape='spline', line_color=color_data_figure[index]))
-
+					curve_average.append(np.mean(dataset_export_figure[key]))
+					curve_min.append(np.min(dataset_export_figure[key]))
+					curve_max.append(np.max(dataset_export_figure[key]))
+					curve_q1.append(np.quantile(dataset_export_figure[key], .25))
+					curve_q1.append(np.quantile(dataset_export_figure[key], .75))
+			
+			fig.add_trace(go.Scatter(x=xf, y=curve_average, name="Average "+ class_data,
+	                    line_shape='spline', line_color=color_data_figure[index]))
+		except:
+			pass
 		index+=1
 		
 	fig.update_traces(mode='lines')

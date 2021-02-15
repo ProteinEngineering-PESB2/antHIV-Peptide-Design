@@ -1,0 +1,25 @@
+#mega
+!Title ;
+!Format DataType=Protein indel=-;
+
+#seq_51:T5:16.6924641112:Class_II
+VWGIKQLQARILAVERYLKDQQLLGIWG-
+
+#seq_57:A13C611:180.0:Class_III
+---LEAIPCSIPPCVAFNKPFVF------
+
+#seq_67:C611F13:930.0:Class_III
+---LEAIPCSIPPCVFFNKPFVF------
+
+#seq_105:15K:50.0:Class_II
+---IRKAHCNISRAK-----------WND
+
+#seq_133:15D:50.0:Class_II
+---IRKAHCNISRAD-----------WND
+
+#seq_135:A13C611F12:270.0:Class_III
+---LEAIPCSIPPCFAFNKPFVF------
+
+#seq_179:C611L13:840.0:Class_III
+---LEAIPCSIPPCVLFNKPFVF------
+

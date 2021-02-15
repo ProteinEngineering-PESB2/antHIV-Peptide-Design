@@ -10,11 +10,11 @@
 ----------------------YTSLIHSLIEEKQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_3:T645:19.505792072846106:Class_II
+#seq_3:T645:19.5057920728:Class_II
 ----------------DREINNYTSLIHSLIEESQNQQEKNEQELLELDKWA--------
 ------------------
 
-#seq_5:T704:116.95209091993138:Class_III
+#seq_5:T704:116.9520909199:Class_III
 ----------------------YTSLIHSLIEESQNQQEKNEQELLELDKPASLWNWF--
 ------------------
 
@@ -30,19 +30,19 @@
 ----------------------YTSLIHSLIEEFQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_10:T99:12.590239416892054:Class_II
+#seq_10:T99:12.590239416900001:Class_II
 ----------------------YTSLIHSLIEESQNQQEKNQQELLQLDKWASLWNWF--
 ------------------
 
-#seq_11:267209:4.711752906702807:Class_I
+#seq_11:267209:4.7117529067:Class_I
 ----------TTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAILREL------------
 ------------------
 
-#seq_12:T98:2.247761791196416:Class_I
+#seq_12:T98:2.2477617912:Class_I
 ----------------------YTSLIHSLIEESQNQQEKNEQELLQLDKWASLWNWF--
 ------------------
 
-#seq_13:T701:0.6764542074324278:Class_I
+#seq_13:T701:0.6764542074:Class_I
 ----------------------YTSLIHSLIEESQNLQEKNEQELLELDKWASLWNWF--
 ------------------
 
@@ -54,19 +54,19 @@ TNWLWYIK----------
 ------------WQTWERQVDNITQTISKALEEAQIQNEKNMYELQKLNQWDIFSNWF--
 ------------------
 
-#seq_16:Izm:26.000000000000004:Class_II
+#seq_16:Izm:26.0:Class_II
 ------------YGGIKKEIEAIKKEQEAIKKKIEAIEKEIEA-----------------
 ------------------
 
-#seq_17:T636:24.84298106738997:Class_II
+#seq_17:T636:24.842981067399997:Class_II
 --------------------------IHSLIEESQNQQEKNEQELLELDKWASLWNWFNI
 TN----------------
 
-#seq_18:T652:0.8926917557684626:Class_I
+#seq_18:T652:0.8926917557999999:Class_I
 ---------NMTWMEWDREINNYTSLIHSLIEESQNQQEKNEQEL---------------
 ------------------
 
-#seq_19:T643:394.2481757273762:Class_III
+#seq_19:T643:394.2481757274:Class_III
 ------------------EINNYTSLIHSLIEESQNQQEKNEQELLELDKWASL------
 ------------------
 
@@ -74,11 +74,11 @@ TN----------------
 -------------KKISEEQKKIQEEIKKILEESKKILEEIERDWEMW------------
 ------------------
 
-#seq_24:T216:225.02503403503638:Class_III
+#seq_24:T216:225.025034035:Class_III
 ----------------------YTSLIHSLIQQSQNQQQKNQQQLLQLDKWASLWNWF--
 ------------------
 
-#seq_25:T630:218.5758906421104:Class_III
+#seq_25:T630:218.57589064209998:Class_III
 --------------------------------ESQNQQEKNEQELLELDKWASLWNWFNI
 TNWLWLIK----------
 
@@ -86,7 +86,7 @@ TNWLWLIK----------
 ----------MTWEEWDKKIEEYTKKIEELIK----------------------------
 ------------------
 
-#seq_29:T215:5.1698521197517575:Class_I
+#seq_29:T215:5.1698521198:Class_I
 ----------------------YTSLIHSLIQESQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
@@ -114,11 +114,11 @@ TNWLWLIK----------
 ------------WTEWDREINNYTSQIHSLIEESQNQQEKLEQELNEL------------
 ------------------
 
-#seq_37:T627:217.1911108022171:Class_III
+#seq_37:T627:217.1911108022:Class_III
 -----------------------------------NQQEKNEQELLELDKWASLWNWFNI
 TNWLWLIKIFI-------
 
-#seq_38:T638:1.133057169532546:Class_I
+#seq_38:T638:1.1330571695:Class_I
 ------------------------SLIHSLIEESQNQQEKNEQELLELDKWASLWNWFNI
 ------------------
 
@@ -126,7 +126,7 @@ TNWLWLIKIFI-------
 ----------------------YTSLIHSLIEERQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_41:T631:218.53099097248474:Class_III
+#seq_41:T631:218.5309909725:Class_III
 -------------------------------EESQNQQEKNEQELLELDKWASLWNWFNI
 TNWLWLI-----------
 
@@ -138,7 +138,7 @@ TNWLWLI-----------
 ----------------------YTSLIHSLIEELQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_44:T97:0.4495523582392833:Class_I
+#seq_44:T97:0.4495523582:Class_I
 ----------------------YTSLIHSLIEESQNQQEKNEQQLLELDKWASLWNWF--
 ------------------
 
@@ -146,7 +146,7 @@ TNWLWLI-----------
 ----------------------YTSLIHSLIEEVQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_47:T702:8.091869693925029:Class_I
+#seq_47:T702:8.0918696939:Class_I
 ----------------------YTSLIHSLIEESQNQQEKLEQELLELDKWASLWNWF--
 ------------------
 
@@ -158,7 +158,7 @@ TNWLWLI-----------
 ---------ELTWEEWEKKIEEYTKKIEEILK----------------------------
 ------------------
 
-#seq_51:T5:16.69246411120216:Class_II
+#seq_51:T5:16.6924641112:Class_II
 --------------VWG--IKQLQARILAVERYLKDQQ------LLGIWG----------
 ------------------
 
@@ -174,7 +174,7 @@ TNWLWLI-----------
 ----------------------YTSLIHSLIEEYQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_56:T646:18.556567348042947:Class_II
+#seq_56:T646:18.556567347999998:Class_II
 ---------------WDREINNYTSLIHSLIEESQNQQEKNEQELLELDKW---------
 ------------------
 
@@ -182,11 +182,11 @@ TNWLWLI-----------
 ------------LEAIPCSIPPCVAFNKPFVF----------------------------
 ------------------
 
-#seq_58:T641:22.556321754421496:Class_II
+#seq_58:T641:22.5563217544:Class_II
 --------------------NNYTSLIHSLIEESQNQQEKNEQELLELDKWASLWN----
 ------------------
 
-#seq_60:T703:0.11151081543398894:Class_I
+#seq_60:T703:0.1115108154:Class_I
 ----------------------YTSLIHSLIEESQNQQEKNEQELLEFDKWASLWNWF--
 ------------------
 
@@ -194,7 +194,7 @@ TNWLWLI-----------
 ----------MTWEEWDKKIEEYTKKIEELIKKSEEQQKKN-------------------
 ------------------
 
-#seq_62:T212:0.6720595713604053:Class_I
+#seq_62:T212:0.6720595714:Class_I
 ----------------------YTSLIHSLIEESQQQQEKNEQELLELDKWASLWNWF--
 ------------------
 
@@ -202,7 +202,7 @@ TNWLWLI-----------
 ----------------------YTSLIHSLIEEHQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_64:T633:40.646764320882156:Class_II
+#seq_64:T633:40.646764320900004:Class_II
 -----------------------------LIEESQNQQEKNEQELLELDKWASLWNWFNI
 TNWLW-------------
 
@@ -210,7 +210,7 @@ TNWLW-------------
 ----------TMWMEWDREINNYTSLIHSLIEESQNQQEKNEQELL--------------
 ------------------
 
-#seq_66:T624:0.4569652934859598:Class_I
+#seq_66:T624:0.4569652935:Class_I
 ------------WMEWDREINNYTSLIHSLIEESQNQQEKNEQELLE-------------
 ------------------
 
@@ -218,11 +218,11 @@ TNWLW-------------
 ------------WLEWDRKIEEYTKKIEELIKKSQEQQEKNEKELK--------------
 ------------------
 
-#seq_69:T379:0.06862177734978121:Class_I
+#seq_69:T379:0.0686217773:Class_I
 ----------------------YTSLIHSLIEESQNQQEKNEQELLELDKWASLFNFF--
 ------------------
 
-#seq_70:T622:55.32144162866325:Class_II
+#seq_70:T622:55.3214416287:Class_II
 -------------------INNYTSLIHSLIEESQNQQEKNEQELLELDKWASL------
 ------------------
 
@@ -230,7 +230,7 @@ TNWLW-------------
 -------------KKISEEQKKIQEEIKKILEESKKILEEIKKDWEEWTM----------
 ------------------
 
-#seq_74:267221:7.852921511171344:Class_I
+#seq_74:267221:7.8529215112:Class_I
 ----------TTWEAWDRAIAEYAARIEALIRALQEQQEKNEAALREL------------
 ------------------
 
@@ -242,7 +242,7 @@ TNWLW-------------
 ----------MTWQEWEQQVRYLEANISQRLEQAQIQQEKNMYELQ--------------
 ------------------
 
-#seq_77:MT-C34:75.4484495120405:Class_II
+#seq_77:MT-C34:0.5:Class_I
 ----------MTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELL--------------
 ------------------
 
@@ -258,7 +258,7 @@ TNWLW-------------
 ----------------------YTSLIHSLIEEMQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_83:T705:3.15754811877794:Class_I
+#seq_83:T705:3.1575481188:Class_I
 ----------------------YTSLIHSLIEESQNQQEKNEQELLELDKWASPWNWF--
 ------------------
 
@@ -266,11 +266,11 @@ TNWLW-------------
 ----------------------YTSLIHSLIEEQQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_86:T213:5.619404477991041:Class_I
+#seq_86:T213:5.619404478:Class_I
 ----------------------YTSLIHSLIEESQNQQEKNEQELLELNKWASLWNWF--
 ------------------
 
-#seq_87:T640:3.3961315797219247:Class_I
+#seq_87:T640:3.3961315797000005:Class_I
 ---------------------NYTSLIHSLIEESQNQQEKNEQELLELDKWASLWNW---
 ------------------
 
@@ -278,7 +278,7 @@ TNWLW-------------
 ------------WEEWDKKIEEYTKKIEELIKKS--------------------------
 ------------------
 
-#seq_89:2638:18.32134715242201:Class_II
+#seq_89:2638:18.3213471524:Class_II
 ----------MTWMAWDRAIANYAALIHALIEAAQNQQEKNEAALLEL------------
 ------------------
 
@@ -286,11 +286,11 @@ TNWLW-------------
 -------------EELAKKAEELAKKAEELAKKAEELAKKA---------WASLWNWFLE
 AIPMSIPPEVKFNKPFVF
 
-#seq_91:T655:508.4108844138907:Class_III
+#seq_91:T655:508.4108844139:Class_III
 ------IWNNMTWMEWDREINNYTSLIHSLIEESQNQQEKNE------------------
 ------------------
 
-#seq_92:T654:0.2203191543269581:Class_I
+#seq_92:T654:0.2203191543:Class_I
 -------WNNMTWMEWDREINNYTSLIHSLIEESQNQQEKNEQ-----------------
 ------------------
 
@@ -302,23 +302,23 @@ AIPMSIPPEVKFNKPFVF
 ------------WMEWDREINNYTSLIHSLIEESQNQQEKIEQELLEL------------
 ------------------
 
-#seq_95:T658:42.229449624246335:Class_II
+#seq_95:T658:42.2294496242:Class_II
 ---LEQIWNNMTWMEWDREINNYTSLIHSLIEESQNQQE---------------------
 ------------------
 
-#seq_97:290676:2.8960388871190874:Class_I
+#seq_97:290676:2.8960388871:Class_I
 ----------TTWEAWDRAIAEYAARIEALIRASQEQQEKNEAELREL------------
 ------------------
 
-#seq_98:T656:1.1054805302769009:Class_I
+#seq_98:T656:1.1054805303:Class_I
 -----QIWNNMTWMEWDREINNYTSLIHSLIEESQNQQEKN-------------------
 ------------------
 
-#seq_99:T659:511.0603274356823:Class_III
+#seq_99:T659:511.0603274357:Class_III
 --SLEQIWNNMTWMEWDREINNYTSLIHSLIEESQNQQ----------------------
 ------------------
 
-#seq_100:2544:5.849334638184907:Class_I
+#seq_100:2544:5.8493346382:Class_I
 ----------MTWEAWDRAIAEYAARIEALIRAAQEQQEKNEAALREL------------
 ------------------
 
@@ -330,7 +330,7 @@ AIPMSIPPEVKFNKPFVF
 ----------------------YTSLIHSLIEEDQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_104:291022:11.031166422029916:Class_II
+#seq_104:291022:11.031166422:Class_II
 ----------TTWEAWDRAIAEYAARIEALIRAAQEQQEKLEAVLREL------------
 ------------------
 
@@ -338,11 +338,11 @@ AIPMSIPPEVKFNKPFVF
 -----------------------IRKAHCNISRAKWND----------------------
 ------------------
 
-#seq_106:T629:219.34057449683274:Class_III
+#seq_106:T629:219.3405744968:Class_III
 ---------------------------------SQNQQEKNEQELLELDKWASLWNWFNI
 TNWLWLIKI---------
 
-#seq_107:T661:66.48921285279019:Class_II
+#seq_107:T661:66.4892128528:Class_II
 NKSLEQIWNNMTWMEWDREINNYTSLIHSLIEESQN------------------------
 ------------------
 
@@ -366,15 +366,15 @@ NKSLEQIWNNMTWMEWDREINNYTSLIHSLIEESQN------------------------
 ----------MTWEEWDKKIEEYTKKIEELI-----------------------------
 ------------------
 
-#seq_114:T657:28.20669336018845:Class_II
+#seq_114:T657:28.2066933602:Class_II
 ----EQIWNNMTWMEWDREINNYTSLIHSLIEESQNQQEK--------------------
 ------------------
 
-#seq_115:T647:9.96442248245469:Class_I
+#seq_115:T647:9.9644224825:Class_I
 --------------EWDREINNYTSLIHSLIEESQNQQEKNEQELLELDK----------
 ------------------
 
-#seq_116:T214:4.270747403273192:Class_I
+#seq_116:T214:4.2707474033:Class_I
 ----------------------YTSLIHSLIEQSQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
@@ -382,7 +382,7 @@ NKSLEQIWNNMTWMEWDREINNYTSLIHSLIEESQN------------------------
 ----------------------YTSLIHSLIEETQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_118:T96:0.2306948760361084:Class_I
+#seq_118:T96:0.230694876:Class_I
 ----------------------YTSLIHSLIEESQNQQEKNEQELLELDKWASLANWF--
 ------------------
 
@@ -398,7 +398,7 @@ NKSLEQIWNNMTWMEWDREINNYTSLIHSLIEESQN------------------------
 ------------WEEWDKKIEEYTKKIEELIKKSQNQQLDL-------------------
 ------------------
 
-#seq_125:2429:4.352241404323226:Class_I
+#seq_125:2429:4.3522414043:Class_I
 ----------TTWEEWDREINEYTSRIESLIRESQEQQEKNEQELREL------------
 ------------------
 
@@ -414,7 +414,7 @@ NKSLEQIWNNMTWMEWDREINNYTSLIHSLIEESQN------------------------
 ----------AAWMEWDREINNYTSLIHSLIEESQNQQEKNEQELL--------------
 ------------------
 
-#seq_130:T637:2.710718860052362:Class_I
+#seq_130:T637:2.7107188601:Class_I
 -------------------------LIHSLIEESQNQQEKNEQELLELDKWASLWNWFNI
 T-----------------
 
@@ -438,11 +438,11 @@ T-----------------
 ------------WTEWDREINNYTSQIHSLIEESQNQQEKNEQELNEL------------
 ------------------
 
-#seq_137:T706:15.629561016197286:Class_II
+#seq_137:T706:15.629561016199998:Class_II
 ----------------------YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNSF--
 ------------------
 
-#seq_138:T634:123.74689515912868:Class_III
+#seq_138:T634:123.74689515909999:Class_III
 ----------------------------SLIEESQNQQEKNEQELLELDKWASLWNWFNI
 TNWL--------------
 
@@ -454,7 +454,7 @@ TNWL--------------
 ---------EMTWEEWEKKIEEYIKKIEEILKKSQNQQIDL-------------------
 ------------------
 
-#seq_142:DP178/T20/Enfuvirtide/ENF:222.0:Class_III
+#seq_142:DP178/T20/Enfuvirtide/ENF:22.04:Class_II
 ----------------------YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
@@ -462,7 +462,7 @@ TNWL--------------
 ---------EMTWEEWEKKIEEYTKKIEEILK----------------------------
 ------------------
 
-#seq_144:T231:0.9009293085818022:Class_I
+#seq_144:T231:0.9009293086:Class_I
 ----------------------YTSLIQSLIEESQNQQEKNEQQLLELDKWASLWNWF--
 ------------------
 
@@ -474,7 +474,7 @@ TNWL--------------
 ----------MTWEEWDKKIEEYTKKIEELIKKSQNQQ----------------------
 ------------------
 
-#seq_147:2410:6.776559879377234:Class_I
+#seq_147:2410:6.776559879400001:Class_I
 ----------MTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELLEL------------
 ------------------
 
@@ -486,7 +486,7 @@ TNWL--------------
 ----------------------YTSLIHSLIEEAQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_150:T653:14.056914886495994:Class_II
+#seq_150:T653:14.056914886500001:Class_II
 --------NNMTWMEWDREINNYTSLIHSLIEESQNQQEKNEQE----------------
 ------------------
 
@@ -494,7 +494,7 @@ TNWL--------------
 ----------MTWQEWEKQVRYLEANISKSL-----------------------------
 ------------------
 
-#seq_152:T642:333.8137181323008:Class_III
+#seq_152:T642:333.8137181323:Class_III
 -------------------INNYTSLIHSLIEESQNQQEKNEQELLELDKWASLW-----
 ------------------
 
@@ -502,7 +502,7 @@ TNWL--------------
 ------------WEEWDKKIEEYTKKIEELIKKSQNQQLDI-------------------
 ------------------
 
-#seq_154:C34:16.83:Class_II
+#seq_154:C34:2.7:Class_I
 ------------WMEWDREINNYTSLIHSLIEESQNQQEKNEQELL--------------
 ------------------
 
@@ -518,7 +518,7 @@ TNWL--------------
 ------------WEEWDRKIEEYTKKIKKLIEESQEQQEKNEKELK--------------
 ------------------
 
-#seq_160:T95:9.91987966955266:Class_I
+#seq_160:T95:9.9198796696:Class_I
 ----------------------YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNAF--
 ------------------
 
@@ -526,11 +526,11 @@ TNWL--------------
 ----------------------YTSLIHSLIEEIQNQQEKNEQELLELDKWASLWNWF--
 ------------------
 
-#seq_162:T628:216.48723483019825:Class_III
+#seq_162:T628:216.4872348302:Class_III
 ----------------------------------QNQQEKNEQELLELDKWASLWNWFNI
 TNWLWLIKIF--------
 
-#seq_163:T639:4.771870505068408:Class_I
+#seq_163:T639:4.7718705051:Class_I
 -----------------------TSLIHSLIEESQNQQEKNEQELLELDKWASLWNWFN-
 ------------------
 
@@ -546,7 +546,7 @@ TNWLWLIKIF--------
 ------------WTEWDREINNYTSQIHSLIEELQNQQEKNEQELNEL------------
 ------------------
 
-#seq_168:T624:1.3964497592287874:Class_I
+#seq_168:T624:1.3964497591999998:Class_I
 ------------WMEWDREINNYTSLIGSLIEESQNQQEKNEQELLE-------------
 ------------------
 
@@ -562,11 +562,11 @@ TNWLWLIKIF--------
 -----------SWETWEREIENYTRQIYRILEESQEQQDRNERDLLE-------------
 ------------------
 
-#seq_172:T660:57.577461771243414:Class_II
+#seq_172:T660:57.5774617712:Class_II
 -KSLEQIWNNMTWMEWDREINNYTSLIHSLIEESQNQ-----------------------
 ------------------
 
-#seq_173:T650:9.82625396400018:Class_I
+#seq_173:T650:9.826253964:Class_I
 -----------TWMEWDREINNYTSLIHSLIEESQNQQEKNEQELLE-------------
 ------------------
 
@@ -578,7 +578,7 @@ TNWLWLIKIF--------
 ------------WQEWEQQVRYLEANISQRLEQAQIQQEKNMYELQ--------------
 ------------------
 
-#seq_176:T648:8.147137299631343:Class_I
+#seq_176:T648:8.1471372996:Class_I
 -------------MEWDREINNYTSLIHSLIEESQNQQEKNEQELLELD-----------
 ------------------
 
